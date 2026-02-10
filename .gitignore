@@ -1,0 +1,101 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual Environment
+tfod/
+venv/
+ENV/
+env/
+.venv
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+Untitled*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.spyderproject
+.spyproject
+.ropeproject
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# TensorFlow
+*.pb
+*.pbtxt
+saved_model/
+checkpoint
+*.ckpt*
+*.index
+*.meta
+*.data-*
+events.out.tfevents.*
+
+# Large Model Files
+Tensorflow/workspace/models/*/
+Tensorflow/workspace/pre-trained-models/
+*.h5
+*.hdf5
+*.model
+*.weights
+
+# Training Data (uncomment if datasets are too large)
+# **/dataset/*.jpg
+# **/dataset/*.png
+# **/images/*.jpg
+# **/images/*.png
+
+# Logs
+*.log
+logs/
+*.out
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Documentation
+docs/_build/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
