@@ -2,6 +2,10 @@
 
 Structured computer vision and deep learning practice projects, organized by topic and difficulty.
 
+## Topic Tags
+
+`python` `opencv` `computer-vision` `image-processing` `deep-learning` `tensorflow` `object-detection` `jupyter-notebook`
+
 ## Repository Structure
 
 - [OpenCV101](OpenCV101/): Core OpenCV operations and image manipulation basics.
